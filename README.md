@@ -1,5 +1,5 @@
-# prueba_innovaccion
-Archivo creado siguiendo los pasos del videotutorial de innovaccion virtual
+# HOLA MUNDO
+Archivo creado siguiendo los pasos del videotutorial del hola mundo.
 
 Autor: Yo
-Fecha 10 de febrero.
+Fecha 12 de febrero.
